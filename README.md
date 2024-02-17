@@ -1,6 +1,4 @@
 
-The official implementation of the **ICCV2021** paper [**Learning Spatio-Temporal Transformer for Visual Tracking**](https://openaccess.thecvf.com/content/ICCV2021/papers/Yan_Learning_Spatio-Temporal_Transformer_for_Visual_Tracking_ICCV_2021_paper.pdf)
-
 Hiring research interns for visual transformer projects: houwen.peng@microsoft.com
 ## News
 - STARK has been integrated into the [mmtracking](https://github.com/open-mmlab/mmtracking/tree/master/configs/sot/stark) library!
