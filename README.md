@@ -9,9 +9,6 @@ Hiring research interns for visual transformer projects: houwen.peng@microsoft.c
   More details can be found at [STARK_Lightning_En.md](lib/tutorials/STARK_Lightning_En.md)/[中文教程](lib/tutorials/STARK_Lightning_Ch.md)
 - The raw results of STARK and other trackers on NOTU (NFS, OTB100, TC128, UAV123) have been uploaded to [here](https://drive.google.com/file/d/1KbtTdxxvvtC6_rlBM3Gi_H7HzpCdrX1F/view?usp=sharing)
 ![STARK_Framework](tracking/Framework.png)
-## Highlights
-### End-to-End, Post-processing Free
-
 STARK is an **end-to-end** tracking approach, which directly predicts one accurate bounding box as the tracking result.  
 Besides, STARK does not use any hyperparameters-sensitive post-processing, leading to stable performances.
 
